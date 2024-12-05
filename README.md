@@ -3,6 +3,7 @@ primeiro repositorio ever. Trabalho de projeto para a cadeira Tecnologias de int
 
 # author
 
-tomas
+tomas e joao iftinca
+
 
 
